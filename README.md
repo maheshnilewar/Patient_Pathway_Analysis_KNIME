@@ -48,3 +48,21 @@ It demonstrates how **KNIME workflows** can be applied to healthcare datasets to
 1. Clone this repository:
    ```bash
    git clone https://github.com/maheshnilewar/Patient_Pathway_Analysis_KNIME.git
+
+2. Tools & Technologies
+
+KNIME Analytics Platform – for data preparation, joining, grouping, and visualization.
+CSV datasets – sample patient and test data.
+GitHub – project hosting and collaboration.
+
+3. Future Work
+
+This project can be extended in the following ways:
+Patient-Level Pathway Analysis: Expand the workflow to analyze diagnostic journeys of individual patients across multiple tests.
+Predictive Modeling: Integrate machine learning models (e.g., in KNIME or Python) to forecast test volumes, costs, or patient outcomes.
+Data Enrichment: Incorporate additional clinical or demographic data to provide deeper insights into healthcare trends.
+Automation: Wrap the workflow into reusable KNIME components for rapid deployment across similar datasets.
+Dashboard Integration: Connect outputs to visualization tools (Tableau/Power BI) or KNIME WebPortal for interactive reporting.
+
+Author
+Mahesh Nilewar
